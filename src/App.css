@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(135deg , white, lightblue, lightgray, deepskyblue);
+}
+.App {
+    display: inline-block;
+    margin-top: 15%;
+}
